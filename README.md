@@ -1,0 +1,4 @@
+# Neural Network Implementation from Scratch
+
+
+This project presents a neural network built entirely from scratch using numpy, with no reliance on frameworks like PyTorch or TensorFlow. The network is applied to the CIFAR-10 dataset, a popular benchmark in machine learning consisting of 60,000 32x32 color images across 10 different classes. The project encompasses every stage of the machine learning pipeline: pre-processing the images, designing the neural network architecture, training the network on the training set, and evaluating its performance on the test set. The architecture, activation functions, and optimization algorithm were all carefully selected to suit the CIFAR-10 dataset. The forward and backward propagation of all layers were developed from scratch, demonstrating a deep understanding of neural networks.
